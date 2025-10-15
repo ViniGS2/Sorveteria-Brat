@@ -1,0 +1,4 @@
+Imagine que você tem uma sorveteria self service onde cada ingrediente disponivel acrescenta no valor de uma forma
+diferente, e por isso você deseja construir um programa para facilitar o calculo do preço final do sorvete;
+
+O padrão decorate seria util pois o objeto (sorvete) seria construido de acordo com a necessidade do cliente.
